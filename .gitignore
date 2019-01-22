@@ -30,6 +30,7 @@
 *.json
 *_history
 *_metrics
+*.ipynb_checkpoints
 Participants.xlsx
 
 # OS generated files #
@@ -45,3 +46,7 @@ Thumbs.db
 #Directories to ignore #
 #######################
 */instructor/
+
+#Additions by Eclipse #
+#######################
+/~$Participants.xlsx
