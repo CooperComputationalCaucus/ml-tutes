@@ -42,6 +42,9 @@ Participants.xlsx
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.ipynb_checkpoints
+.project
+.pydevproject
 
 #Directories to ignore #
 #######################
